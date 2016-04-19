@@ -1,0 +1,541 @@
+id_dep;nome;partido;UF;tema_10;tema_11;tema_12;tema_13;tema_14;tema_15;tema_16;tema_17;tema_18;tema_19;tema_1;tema_2;tema_3;tema_4;tema_5;tema_6;tema_7;tema_8;tema_9
+73579;"AlbertoFraga";dem;DF;sim;sim;sim;sim;não;não;não;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+160545;"AlexandreLeite";dem;SP;sim;sim;sim;abstenção;não;não;sim;sim;sim;sim;sim;não votou;não;sim;sim;sim;sim;sim;sim
+74651;"CarlosMelles";dem;MG;sim;sim;não;sim;não votou;sim;não;sim;sim;não;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+74537;"ClaudioCajado";dem;BA;sim;sim;sim;não votou;sim;sim;não votou;sim;não votou;não votou;não votou;não votou;sim;não votou;sim;sim;sim;sim;não votou
+141422;"EfraimFilho";dem;PB;sim;sim;não;sim;não;não;não;sim;sim;sim;sim;sim;não votou;não votou;sim;sim;sim;sim;sim
+160532;"EliCorrêaFilho";dem;SP;não votou;sim;sim;sim;não;não;não;sim;sim;não votou;não votou;não votou;sim;sim;sim;sim;sim;não votou;sim
+178854;"ElmarNascimento";dem;BA;sim;sim;sim;não;não votou;sim;não;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim
+141429;"FelipeMaia";dem;RN;sim;sim;sim;abstenção;não;não;não;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim
+178909;"HélioLeite";dem;PA;não;sim;não;não;não;não;não;sim;não votou;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+73535;"JorgeTadeuMudalen";dem;SP;sim;sim;sim;abstenção;não;não;não;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;não;sim
+74553;"JoséCarlosAleluia";dem;BA;não;sim;não;não votou;sim;sim;não;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim
+160633;Mandetta;dem;MS;não;sim;sim;sim;não;não;não;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;não;sim
+160660;"MarceloAguiar";dem;SP;sim;sim;sim;abstenção;sim;sim;sim;sim;sim;não;sim;sim;não;sim;sim;sim;sim;sim;não votou
+74428;"MendonçaFilho";dem;PE;sim;sim;não;não votou;não;não;não;sim;sim;não;sim;sim;não votou;sim;sim;sim;sim;sim;não votou
+178895;"MisaelVarella";dem;MG;sim;sim;sim;não;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não;sim
+74457;"MoroniTorgan";dem;CE;sim;sim;sim;sim;não;não;não;sim;sim;não;sim;não;não votou;sim;sim;sim;sim;não;não
+74399;"OnyxLorenzoni";dem;RS;não votou;sim;não votou;não;não votou;não;não;sim;sim;não;não votou;não votou;não votou;não votou;sim;sim;7 não votou;não votou;sim
+180545;"OsmarBertoldi";dem;PR;não votou;sim;não votou;não votou;não;não;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;sim
+74095;"PauderneyAvelino";dem;AM;sim;sim;sim;abstenção;não;não;não;sim;sim;não;não votou;não votou;não votou;não votou;sim;sim;7 sim;sim;sim
+178860;"PauloAzi";dem;BA;sim;sim;sim;abstenção;não votou;sim;sim;sim;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+160639;"ProfessoraDorinhaSeabraRezende";dem;TO;não;sim;sim;sim;não;não;sim;sim;im;sim;sim;não votou;sim;sim;não;não;sim;não;não
+74693;"RodrigoMaia";dem;RJ;sim;sim;sim;abstenção;sim;sim;não;sim;sim;não;sim;sim;não votou;sim;sim;sim;sim;sim;sim
+74057;"AlicePortugal";pcdob;BA;sim;não;sim;sim;não votou;sim;não;não;sim;não;não;não;sim;não votou;não;não votou;não;não;não
+178927;"AlielMachado";pcdob;PR;sim;não;sim;sim;sim;não;não;não votou;sim;não;não votou;sim;sim;não;não;não;não;não;não
+74474;"CarlosEduardoCadoca";pcdob;PE;sim;não;sim;sim;sim;sim;não;sim;não votou;não;não;não;sim;não;não;não;não;não;sim
+141440;"ChicoLopes";pcdob;CE;sim;não;sim;sim;sim;sim;não;não;sim;não;não;não;sim;não;não;não;não;não;não
+74060;"DanielAlmeida";pcdob;BA;sim;não;sim;sim;sim;sim;não;não;sim;não;não;não;sim;não;não;não;não;não;não
+101309;"DavidsonMagalhães";pcdob;BA;sim;não;sim;sim;sim;sim;não;não;sim;não;não;não;sim;não;não;não;não;não;não
+74848;"JandiraFeghali";pcdob;RJ;sim;não;sim;sim;sim;sim;não;não;sim;não;não;não;sim;não;não;não;não;não;não
+178965;"JoãoDerly";pcdob;RS;sim;não;sim;sim;sim;não;não;não;sim;não votou;não votou;não;sim;não votou;não;não;não;não;não
+141503;"JôMoraes";pcdob;MG;sim;não;sim;não votou;sim;sim;não;não;não votou;não;não;não votou;sim;não;não;não;não;não;não
+160628;"LucianaSantos";pcdob;PE;sim;não;sim;sim;sim;sim;não;não;sim;não;não;não votou;sim;não;não;não;não;não;não
+178987;"OrlandoSilva";pcdob;SP;sim;não;sim;sim;sim;sim;não;não;sim;não;não;não;sim;não;não;não;não;não;não
+178887;"RubensPereiraJúnior";pcdob;MA;sim;não;sim;não votou;sim;sim;não;não;não votou;não;não;não;sim;não;não;não;não;não;não
+137853;"WadsonRibeiro";pcdob;MG;sim;não;sim;sim;sim;sim;não;não;sim;não;não;não;sim;não;não;não;não;não;não
+178957;"AbelMesquitaJr.";pdt;RR;não;sim;sim;sim;não;não;sim;não;sim;sim;não;não;não votou;sim;não;sim;sim;sim;sim
+178835;"AfonsoMotta";pdt;RS;não;sim;sim;sim;não;não;sim;não;sim;sim;sim;não;sim;sim;não;não;não;não;sim
+133439;"AndréFigueiredo";pdt;CE;não;não votou;sim;sim;não;não;não votou;não votou;sim;não votou;não votou;não votou;sim;sim;não;não;não;não;sim
+141411;Dagoberto;pdt;MS;não;sim;sim;sim;não;não;sim;não;sim;sim;sim;não;sim;sim;não;não;não;não;sim
+74467;"DamiãoFeliciano";pdt;PB;não;não;sim;sim;não;não;não votou;não votou;sim;não votou;não;sim;sim;sim;não;não;não;não;não
+185500;"DeoclidesMacedo";pdt;MA;não votou;não votou;não votou;não votou;não votou;não votu;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;sim
+160666;"FélixMendonçaJúnior";pdt;BA;não;sim;sim;sim;não;não;sim;não;sim;sim;sim;sim;sim;sim;não;não;não;não;sim
+160598;"FláviaMorais";pdt;GO;não;sim;sim;sim;não;não;não votou;não votou;sim;não votou;não votou;não votou;sim;sim;não;não;não;não;sim
+191923;"FlavioNogueira";pdt;PI;não votou;não votou;não votou;não votou;não votou;não voto;não votou;não votou;não votou;não votou;sim;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+160673;"GiovaniCherini";pdt;RS;não;sim;sim;sim;não;não;sim;não;sim;sim;sim;não;sim;sim;não;não;não votou;não;sim
+178826;"MajorOlimpio";pdt;SP;não;não;sim;abstenção;não votou;não;sim;não;sim;sim;sim;sim;não;sim;sim;sim;não;não;sim
+76287;"MarceloMatos";pdt;RJ;não;não;sim;sim;não;não;sim;não;sim;sim;não;não;sim;sim;abstção;sim;não;não;não
+167722;"MarcosRogério";pdt;RO;abstenção;sim;sim;abstenção;não;não;sim;sim;sim;não;não;não votou;não votou;sim;sim;sim;não;não;não
+74158;"MárioHeringer";pdt;MG;não votou;sim;não votou;sim;não;não;sim;não;sim;sim;sim;não votou;sim;sim;não;não;não votou;não votou;sim
+73486;"PompeodeMattos";pdt;RS;não;sim;sim;sim;não;não;sim;não;sim;não;sim;não votou;sim;sim;não;não;não;não;não votou
+178995;"RobertoGóes";pdt;AP;não;não;não;sim;não;não;sim;não;sim;sim;não;não;sim;sim;não;não;sim;não;sim
+178845;"RonaldoLessa";pdt;AL;não;não;não votou;sim;não;não;sim;sim;sim;sim;não;não;sim;abstção;não;não;não votou;não votou;não votou
+191684;"RosângelaCurado";pdt;MA;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou
+;sim;não;não votou;não votou;não votou;não votou;7 não votou;não votou;não votou
+178874;"SergioVidigal";pdt;ES;não;não;sim;sim;não;não;abstenção;abstenção;sim;abstenção;sim;não votou;sim;sim;não;não;não;não;sim
+177282;"SubtenenteGonzaga";pdt;MG;não;não votou;sim;sim;não;não;sim;não;sim;sim;não;não;sim;sim;não;sim;não;não;não
+167493;"WevertonRocha";pdt;MA;não;não;sim;sim;não;não;sim;não;sim;sim;não votou;não votou;sim;sim;não;não;não;não;sim
+74439;"WolneyQueiroz";pdt;PE;não;não;sim;não votou;não;não;não;não;sim;sim;não;não votou;sim;sim;não;não;não;não;não
+178882;"AndréFufuca";pen;MA;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim
+178885;"JuniorMarreca";pen;MA;sim;não votou;não votou;não votou;não;não votou;sim;sim;não votou;sim;sim;não votou;sim;não;sim;sim;sim;sim;sim
+178864;"AdailCarneiro";phs;CE;sim;sim;sim;não;sim;não;sim;não;sim;não;sim;sim;sim;sim;não;não;sim;sim;sim
+178958;"CarlosAndrade";phs;RR;sim;sim;não votou;não;sim;não;sim;não;não votou;não;não votou;sim;sim;não votou;sim;sim;sim;sim;sim
+178929;"DiegoGarcia";phs;PR;sim;sim;sim;não;sim;não;sim;não;sim;não;não votou;sim;sim;sim;não;não;sim;não;não
+178918;"KaioManiçoba";phs;PE;sim;sim;sim;não;não votou;não;sim;não;sim;não;sim;sim;sim;sim;não;sim;sim;sim;sim
+146788;"MarceloAro";phs;MG;sim;não votou;sim;não;sim;não;sim;não;sim;não;não votou;não votou;sim;sim;sim;sim;sim;sim;sim
+160582;"AlbertoFilho";pmdb;MA;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não votou
+160559;"AlceuMoreira";pmdb;RS;não;sim;sim;sim;sim;não;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim
+74212;"AníbalGomes";pmdb;CE;sim;não votou;sim;não;sim;sim;não votou;não votou;sim;não votou;sim;não votou;sim;sim;sim;sim;sim;sim;não votou
+178975;"BaleiaRossi";pmdb;SP;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não votou;sim;sim;sim;não;sim
+105112;"CabuçuBorges";pmdb;AP;sim;sim;sim;não votou;sim;sim;sim;sim;não votou;sim;sim;não votou;sim;sim;não votou;sim;sim;sim;sim
+141401;"CarlosBezerra";pmdb;MT;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;não votou;não;não;sim;sim;não votou
+178993;"CarlosHenriqueGaguim";pmdb;TO;sim;sim;sim;sim;sim;sim;sim;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim
+178900;"CarlosMarun";pmdb;MS;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;não votou;não;sim;sim;sim;sim;sim;sim;sim
+73568;"CelsoJacob";pmdb;RJ;sim;sim;sim;sim;sim;sim;não votou;não votou;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141405;"CelsoMaldaner";pmdb;SC;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não votou;sim;sim;não;sim;sim;sim;sim
+72912;"CelsoPansera";pmdb;RJ;sim;não votou;não;sim;sim;sim;não;sim;nao votou;sim;não votou;não votou;sim;não votou;não;não;sim;sim;sim
+144523;"DanielVilela";pmdb;GO;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não;não votou;sim;sim;sim;sim;sim;não;sim
+62881;"DaniloForte";pmdb;CE;sim;sim;sim;não;sim;não;sim;não;sim;sim;não votou;não votou;não;sim;sim;sim;sim;sim;sim
+73891;"DarcísioPerondi";pmdb;RS;não;sim;sim;sim;sim;sim;sim;sim;sim;não;sim;não;sim;não;não;não;sim;sim;sim
+178994;"DulceMiranda";pmdb;TO;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim
+73447;"EdinhoAraújo";pmdb;SP;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+73793;"EdinhoBez";pmdb;SC;sim;sim;sim;não;abstenção;sim;sim;sim;sim;não votou;sim;não;sim;sim;sim;sim;sim;abstção;sim
+141417;"EdioLopes";pmdb;RR;sim;sim;sim;não;sim;sim;sim;não;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+74173;"EduardoCunha";pmdb;RJ;art. 17;art. 17;art. 17;art. 17;art. 17;art. 17;art. 17;art. 17;art. 17;art. 17;art. 17;art.7;3 t. 14 ar 17;art.7;6 t. 17;7 art. 17;art. 17;art. 17
+74075;"ElcioneBarbalho";pmdb;PA;sim;não votou;sim;sim;sim;sim;não votou;não votou;não votou;não votou;sim;sim;não votou;não votou;não;não;não;não;sim
+171623;"FabioReis";pmdb;SE;sim;sim;sim;não;sim;não;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+163831;"FernandoJordão";pmdb;RJ;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+141434;"FlavianoMelo";pmdb;AC;sim;sim;sim;não votou;sim;sim;não;não;não votou;não;não votou;não votou;não votou;sim;sim;sim;sim;sim;sim
+74374;"GeraldoResende";pmdb;MS;não;sim;sim;sim;não votou;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim
+73772;"HermesParcianello";pmdb;PR;sim;sim;sim;sim;não;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;não
+178884;"HildoRocha";pmdb;MA;sim;sim;sim;sim;não votou;sim;não;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim;sim
+160674;"HugoMotta";pmdb;PB;sim;sim;sim;não votou;não votou;sim;sim;não;não votou;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+131943;"JarbasVasconcelos";pmdb;PE;não;sim;sim;não;não;não;sim;sim;sim;não;não;sim;não votou;sim;não;não;sim;sim;sim
+178839;"JéssicaSales";pmdb;AC;não votou;sim;não votou;não votou;sim;sim;sim;não;não votou;sim;sim;não votou;não votou;sim;sim;sim;não votou;não votou;não votou
+160573;"JoãoArruda";pmdb;PR;sim;sim;sim;não;não votou;não;sim;sim;sim;não;não;não votou;sim;não;não;não;sim;não;não
+112437;"JoãoMarceloSouza";pmdb;MA;sim;sim;sim;não votou;sim;sim;não votou;não votou;não votou;não votou;sim;sim;sim;abstção;não;não;sim;sim;sim
+131966;"JoséFogaça";pmdb;RS;não;não;sim;não votou;não;não;não;não;sim;não;sim;sim;sim;sim;não;não;não;não;sim
+74079;"JoséPriante";pmdb;PA;sim;não votou;não votou;sim;sim;sim;sim;não;não votou;não;não votou;não votou;sim;sim;não votou;não votou;7 não votou;não votou;não votou
+114941;"JosiNunes";pmdb;TO;sim;sim;sim;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;não;não;sim;sim;sim
+178894;"LaudivioCarvalho";pmdb;MG;sim;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141562;"LeloCoimbra";pmdb;ES;não;não votou;sim;sim;sim;não;sim;sim;sim;sim;não;não;sim;sim;não;não;sim;não;sim
+74254;"LeonardoPicciani";pmdb;RJ;sim;sim;sim;sim;sim;sim;não;sim;não votou;sim;não votou;não votou;sim;sim;sim;sim;sim;sim;sim
+141482;"LeonardoQuintão";pmdb;MG;sim;não votou;sim;sim;sim;sim;sim;não;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+141483;"LindomarGarçon";pmdb;RO;sim;sim;sim;não votou;sim;sim;sim;sim;não votou;sim;não votou;não;sim;não votou;abstção;sim;sim;sim;sim
+178954;"LucioMosquini";pmdb;RO;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;não
+94931;"LucioVieiraLima";pmdb;BA;sim;sim;sim;não votou;sim;sim;não votou;não votou;não votou;não votou;não votou;sim;não votou;sim;sim;sim;sim;sim;sim
+141490;"ManoelJunior";pmdb;PB;sim;sim;sim;não votou;sim;sim;sim;sim;sim;não votou;não votou;não votou;sim;sim;sim;sim;sim;sim;sim
+74460;"MarceloCastro";pmdb;PI;não;sim;sim;não votou;sim;sim;sim;não;não votou;sim;não votou;não votou;sim;sim;sim;abstção;não;não;sim
+178850;"MarcosRotta";pmdb;AM;sim;sim;sim;sim;não;não;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+74177;"MarinhaRaupp";pmdb;RO;não;não votou;sim;sim;sim;não votou;sim;não;sim;sim;não votou;não votou;sim;sim;não;não;sim;não;não
+181315;"MarquinhoMendes";pmdb;RJ;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+178843;"MarxBeltrão";pmdb;AL;sim;sim;não;não votou;não;sim;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+74749;"MauroLopes";pmdb;MG;sim;sim;sim;não;sim;sim;não votou;não votou;sim;não votou;sim;sim;sim;sim;sim;não votou;sim;sim;sim
+141507;"MauroMariani";pmdb;SC;não;sim;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+124411;"MauroPereira";pmdb;RS;não;sim;sim;sim;sim;não;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim
+178896;"NewtonCardosoJr";pmdb;MG;sim;sim;sim;sim;sim;sim;sim;não;não;sim;sim;sim;não;sim;não votou;não votou;sim;sim;sim
+73463;"OsmarSerraglio";pmdb;PR;sim;sim;sim;não votou;não votou;não votou;sim;não votou;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+73692;"OsmarTerra";pmdb;RS;não votou;não votou;não votou;sim;sim;sim;não votou;não;sim;sim;não votou;sim;sim;sim;não;não;não votou;não votou;não
+74812;"PedroChaves";pmdb;GO;sim;sim;sim;não;sim;sim;sim;não;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim
+178897;"RodrigoPacheco";pmdb;MG;sim;sim;sim;não;sim;sim;não votou;não votou;sim;não votou;sim;sim;sim;sim;não votou;não votou;sim;não;sim
+160651;"RogérioPeninhaMendonça";pmdb;SC;sim;sim;sim;não;sim;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim
+160515;"RonaldoBenedet";pmdb;SC;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não;sim
+178870;"RoneyNemer";pmdb;DF;sim;sim;não;sim;não votou;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não;sim
+74762;"SaraivaFelipe";pmdb;MG;não votou;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não;não;sim;não votou;sim
+178933;"SergioSouza";pmdb;PR;sim;sim;sim;sim;sim;sim;não;sim;não votou;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+74765;"SilasBrasileiro";pmdb;MG;não votou;sim;não votou;não;não votou;não votou;sim;sim;sim;sim;sim;sim;sim;sim;não votou;sim;não votou;não votou;sim
+178911;"SimoneMorgado";pmdb;PA;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não;não;não;não;não votou
+178946;"SorayaSantos";pmdb;RJ;sim;sim;sim;sim;sim;sim;não votou;não votou;sim;não votou;não votou;não votou;sim;sim;sim;sim;sim;sim;sim
+74010;"ValdirColatto";pmdb;SC;não votou;sim;não votou;sim;sim;sim;sim;não;sim;não;sim;sim;não;sim;sim;sim;não votou;não votou;sim
+178913;"VenezianoVitaldoRêgo";pmdb;PB;sim;sim;sim;sim;não;sim;sim;não;sim;sim;não;sim;sim;não votou;sim;sim;sim;sim;sim
+178869;"VitorValim";pmdb;CE;sim;não votou;sim;sim;não;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não;não
+178952;"WalterAlves";pmdb;RN;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+160620;"WashingtonReis";pmdb;RJ;sim;sim;não votou;sim;sim;sim;não votou;não votou;sim;não votou;sim;não votou;sim;não votou;não;não;não votou;sim;sim
+178950;"AntônioJácome";pmn;RN;não;sim;sim;não votou;não;não;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não;não votou
+178892;"DâminaPereira";pmn;MG;não;sim;sim;não votou;sim;sim;sim;não;não votou;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+178959;"HiranGonçalves";pmn;RR;sim;sim;sim;sim;sim;sim;não;não;não;não;sim;não votou;sim;sim;sim;sim;sim;não;sim
+136811;"AfonsoHamm";pp;RS;não;sim;sim;não;não;não;sim;não;sim;sim;sim;sim;não;sim;sim;sim;não;não;sim
+160527;"AguinaldoRibeiro";pp;PB;sim;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;não;não votou;não votou;sim;sim;sim
+160541;"ArthurLira";pp;AL;sim;sim;sim;não;sim;sim;não;não votou;não votou;não votou;sim;não;sim;não votou;sim;sim;sim;sim;sim
+178948;"BetoRosado";pp;RN;não;sim;sim;não;não votou;não;sim;não;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim
+93083;"CacáLeão";pp;BA;sim;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178848;"ConceiçãoSampaio";pp;AM;sim;sim;sim;sim;não;não;sim;sim;sim;sim;não;sim;não;abstção;não;não;sim;não;sim
+178963;"CovattiFilho";pp;RS;sim;sim;sim;sim;sim;não;sim;não;sim;sim;sim;não;não;sim;sim;sim;sim;sim;sim
+73768;"DilceuSperafico";pp;PR;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+160599;"DimasFabiano";pp;MG;sim;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141421;"EduardodaFonte";pp;PE;não votou;não votou;não votou;sim;sim;sim;não votou;não votou;não votou;não;não votou;não votou;não votou;sim;sim;sim;não votou;não votou;sim
+160649;"EsperidiãoAmin";pp;SC;sim;sim;sim;não;não;não;sim;não;sim;não;não;não votou;não;sim;sim;sim;não;não;sim
+178904;"EzequielFonseca";pp;MT;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim
+92699;"FernandoMonteiro";pp;PE;sim;sim;sim;não votou;não votou;sim;sim;não votou;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim
+160667;"GuilhermeMussi";pp;SP;sim;sim;sim;sim;sim;sim;sim;não;sim;não votou;sim;não votou;sim;não votou;sim;sim;sim;sim;sim
+67138;"IracemaPortella";pp;PI;sim;sim;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim
+74847;"JairBolsonaro";pp;RJ;sim;sim;sim;não;não;não;sim;não;sim;sim;não;sim;não;sim;sim;sim;sim;sim;não votou
+160570;"JerônimoGoergen";pp;RS;não;sim;sim;sim;não;não;não votou;não votou;sim;não votou;sim;não;sim;sim;sim;sim;sim;sim;sim
+74388;"JorgeBoeira";pp;SC;não;sim;sim;não votou;não;não;não;sim;não votou;não;não votou;não votou;não votou;não votou;sim;sim;7 não;não;não
+74395;"JoséOtávioGermano";pp;RS;sim;sim;não votou;sim;não;não;não votou;não votou;sim;não votou;sim;não votou;não;sim;sim;sim;não;não votou;sim
+74253;"JulioLopes";pp;RJ;sim;sim;sim;abstenção;sim;sim;sim;não;sim;não;sim;não votou;não votou;sim;sim;sim;sim;sim;sim
+141480;"LázaroBotelho";pp;TO;sim;sim;sim;sim;sim;sim;sim;não votou;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+73483;"LuisCarlosHeinze";pp;RS;sim;sim;sim;sim;não;não;sim;não;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+141487;"LuizFernandoFaria";pp;MG;sim;sim;não votou;sim;sim;sim;sim;não;sim;sim;sim;não votou;sim;não votou;sim;sim;sim;não votou;sim
+178932;"MarceloBelinati";pp;PR;sim;não;sim;não;não;não;não;sim;sim;não;sim;sim;não;sim;sim;sim;não;não;não
+74235;"MarcusVicente";pp;ES;sim;sim;sim;não;sim;não;não votou;não;sim;não votou;sim;sim;não;sim;sim;sim;sim;sim;sim
+178858;"MárioNegromonteJr.";pp;BA;sim;sim;não votou;sim;sim;sim;sim;não;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+160561;"MissionárioJoséOlimpio";pp;SP;sim;sim;sim;abstenção;não;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não;sim
+73781;"NelsonMeurer";pp;PR;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não
+74752;"OdelmoLeão";pp;MG;sim;sim;sim;não;não;não;sim;não;sim;sim;sim;sim;não;sim;sim;sim;sim;não;sim
+132056;"PauloMaluf";pp;SP;sim;sim;não votou;não votou;sim;sim;sim;não;não votou;não votou;não votou;não votou;não votou;sim;sim;sim;sim;não votou;sim
+141527;"RenatoMolling";pp;RS;sim;sim;sim;sim;não votou;não;sim;sim;sim;sim;não votou;sim;não;não votou;sim;sim;sim;sim;sim
+160654;"RenzoBraz";pp;MG;sim;sim;sim;não votou;sim;não;sim;não;não votou;sim;sim;não votou;sim;não votou;sim;sim;sim;sim;não votou
+73788;"RicardoBarros";pp;PR;sim;não votou;sim;não votou;sim;sim;não;não votou;não votou;não;sim;não votou;não votou;não votou;não;não;7 sim;sim;sim
+73674;"RobertoBalestra";pp;GO;sim;sim;sim;sim;não;não votou;sim;sim;sim;não;sim;sim;não;sim;sim;sim;sim;não votou;sim
+141529;"RobertoBritto";pp;BA;sim;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;não votou;sim;sim
+178861;"RonaldoCarletto";pp;BA;sim;sim;sim;abstenção;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+74372;"SandesJúnior";pp;GO;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;não;sim
+73424;"SimãoSessim";pp;RJ;não votou;sim;não votou;não votou;sim;sim;não votou;não votou;não votou;não votou;sim;não votou;não votou;não votou;sim;sim;7 não votou;não votou;sim
+160611;"ToninhoPinheiro";pp;MG;sim;sim;sim;não votou;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141558;"WaldirMaranhão";pp;MA;sim;não votou;sim;não votou;sim;sim;não votou;não votou;não votou;não votou;não votou;sim;sim;não votou;não;sim;sim;sim;não votou
+178972;"AlexManente";pps;SP;não;sim;sim;sim;não;não;não;sim;sim;não;sim;sim;sim;sim;sim;sim;não;não;sim
+160602;"ArnaldoJordy";pps;PA;não;não;sim;sim;não;não;não;sim;sim;não;sim;não votou;não votou;sim;não;não;não;não;não
+164360;"CarmenZanotto";pps;SC;não;sim;sim;sim;não;não;não;sim;sim;não;sim;sim;sim;sim;não;não;não;não;sim
+178883;"ElizianeGama";pps;MA;não;não;sim;sim;não;não;não;sim;sim;não;não votou;não;sim;sim;não;não;não;não;não
+178849;"HissaAbrahão";pps;AM;não;sim;sim;sim;não votou;não;não;sim;sim;não;sim;sim;sim;não votou;não;não;não;não;sim
+178880;"MarcosAbrão";pps;GO;não;sim;sim;sim;não;não;não;sim;sim;não;sim;não;sim;sim;não;sim;não;não;sim
+178997;"MosesRodrigues";pps;CE;sim;sim;sim;sim;não;não;não;sim;sim;não;sim;não;sim;sim;sim;sim;não;não;não
+74048;"RaulJungmann";pps;PE;não votou;não;não;não votou;não;não;não;não;não votou;não;não votou;não votou;sim;sim;não;não;não;não votou;sim
+73805;"RobertoFreire";pps;SP;não;sim;sim;sim;não votou;não;não;não;abstenção;não;não votou;sim;sim;sim;não;não;não;não;sim
+73466;"RubensBueno";pps;PR;não;sim;sim;sim;não;não;não;sim;sim;não;sim;não;sim;sim;não;não;não;não;sim
+160621;"SandroAlex";pps;PR;não;sim;sim;sim;não;não;não;sim;sim;não;sim;sim;sim;sim;sim;sim;não;não;sim
+141372;"AeltonFreitas";pr;MG;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178846;"AlfredoNascimento";pr;AM;não;sim;sim;não votou;sim;sim;não votou;não votou;não votou;não votou;sim;sim;sim;sim;não votou;não votou;sim;sim;sim
+178937;"AltineuCôrtes";pr;RJ;não;sim;sim;não votou;sim;não votou;sim;não;sim;sim;sim;sim;não votou;sim;sim;sim;não votou;sim;sim
+160551;"AndersonFerreira";pr;PE;não;sim;sim;sim;sim;sim;sim;não votou;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+141513;"BilacPinto";pr;MG;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178865;"CaboSabino";pr;CE;não;não votou;sim;não;sim;sim;não;sim;sim;sim;não;sim;não votou;sim;sim;sim;sim;não;não
+178829;"CapitãoAugusto";pr;SP;não;sim;sim;sim;sim;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178939;"ClarissaGarotinho";pr;RJ;não;não;sim;sim;sim;não;sim;não;sim;não;sim;sim;não votou;sim;não;não;não;não;não
+178940;"Dr.João";pr;RJ;não;sim;sim;abstenção;sim;sim;sim;não;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+160677;"FranciscoFloriano";pr;RJ;não;sim;sim;abstenção;sim;sim;sim;não;sim;sim;não;sim;sim;sim;sim;não votou;sim;sim;sim
+74383;Giacobo;pr;PR;não;não votou;não votou;não votou;sim;sim;sim;não;sim;sim;não votou;não votou;não votou;não votou;sim;sim;7 sim;sim;sim
+129618;"GoretePereira";pr;CE;não votou;sim;não votou;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim;não votou;não votou;sim
+141458;"JoãoCarlosBacelar";pr;BA;não;sim;sim;não;sim;sim;sim;não;sim;não votou;sim;não votou;não votou;não votou;sim;não votou;7 sim;sim;não
+160509;"JorginhoMello";pr;SC;não;sim;não votou;sim;sim;sim;não votou;não votou;sim;não votou;sim;não votou;sim;não votou;sim;sim;não votou;sim;sim
+74554;"JoséRocha";pr;BA;não;sim;sim;sim;sim;sim;não votou;não votou;sim;não votou;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+141478;"LaerteBessa";pr;DF;não;sim;sim;não;sim;sim;sim;não votou;sim;sim;não;sim;sim;não votou;sim;sim;sim;sim;não votou
+74585;"LincolnPortela";pr;MG;não;não;sim;sim;sim;não votou;não votou;não votou;sim;não votou;abstenção;sim;sim;sim;sim;sim;sim;não;não
+141484;"LúcioVale";pr;PA;não;sim;sim;não;sim;sim;sim;não;sim;não;não;sim;sim;sim;sim;sim;sim;sim;não votou
+178955;"LuizCláudio";pr;RO;não;sim;sim;sim;sim;sim;sim;não;sim;abstenção;sim;sim;abstção;sim;sim;sim;sim;sim;sim
+162332;"LuizNishimori";pr;PR;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+166402;"MagdaMofatto";pr;GO;não;sim;sim;não;sim;sim;sim;não;sim;sim;não votou;não votou;sim;sim;sim;sim;sim;sim;sim
+178983;"MarcioAlvino";pr;SP;não;sim;sim;abstenção;sim;sim;sim;não;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+178943;"MarcosSoares";pr;RJ;não votou;abstenção;sim;não;sim;não;sim;sim;sim;sim;sim;não votou;não votou;sim;sim;sim;não votou;não votou;não votou
+74050;"MaurícioQuintellaLessa";pr;AL;não;não votou;sim;abstenção;sim;sim;sim;não;sim;sim;não votou;não votou;sim;sim;sim;sim;sim;sim;sim
+178985;"MiguelLombardi";pr;SP;não;sim;sim;abstenção;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+74787;"MiltonMonti";pr;SP;não;não votou;sim;abstenção;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+74017;"PauloFeijó";pr;RJ;não votou;sim;não votou;sim;sim;não;sim;não;sim;não;sim;sim;não;sim;sim;sim;não votou;não votou;sim
+160558;"PauloFreire";pr;SP;não;sim;sim;abstenção;não;não;sim;não;sim;não;sim;sim;não votou;não votou;sim;sim;sim;não;não votou
+178960;"RemídioMonai";pr;RR;não;sim;sim;não;não votou;sim;sim;não;sim;sim;não votou;não votou;sim;sim;sim;sim;sim;sim;sim
+187008;"SilasFreire";pr;PI;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;sim;sim;sim;não;sim;não
+160976;Tiririca;pr;SP;não;sim;sim;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não
+160591;"ViniciusGurgel";pr;AP;não;não votou;sim;não;não votou;sim;sim;não;não votou;não;não votou;sim;não votou;sim;sim;sim;sim;sim;sim
+74043;"WellingtonRoberto";pr;PB;não;não votou;sim;sim;sim;sim;sim;não;sim;sim;sim;não votou;sim;sim;sim;não votou;sim;sim;sim
+178949;"ZenaideMaia";pr;RN;não;não;sim;sim;sim;sim;sim;não;sim;sim;não;sim;sim;sim;não;não;sim;sim;abstenção
+178836;"AlanRick";prb;AC;não;sim;sim;sim;sim;não;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim;não;sim
+178831;"AndréAbdon";prb;AP;não;sim;sim;não;sim;sim;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;não;sim
+141383;"AntonioBulhões";prb;SP;não;sim;sim;não;sim;sim;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;não;não
+73437;"BetoMansur";prb;SP;não;sim;sim;não;não votou;sim;não votou;não votou;não votou;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178962;"CarlosGomes";prb;RS;não;sim;sim;não;sim;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;não;sim
+73441;"CelsoRussomanno";prb;SP;não;sim;sim;sim;sim;sim;não;não;sim;não;sim;não votou;sim;não votou;sim;sim;sim;não;não votou
+160576;"CésarHalum";prb;TO;não;sim;sim;não;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141408;"CleberVerde";prb;MA;não;sim;sim;sim;sim;sim;não votou;não votou;sim;não votou;sim;não votou;sim;não votou;sim;sim;sim;não;sim
+66828;"FaustoPinato";prb;SP;não;sim;sim;não;sim;não;não;não;sim;não;sim;não votou;não;sim;sim;sim;sim;não;sim
+160531;"JhonatandeJesus";prb;RR;não;sim;sim;não votou;não votou;não;não;não;não votou;sim;não;sim;sim;sim;sim;sim;sim;não;sim
+178971;"JonyMarcos";prb;SE;não;não;sim;sim;sim;sim;não;sim;sim;não;sim;não votou;não votou;não;sim;sim;sim;não;não
+118594;"MarceloSquassoni";prb;SP;não;sim;sim;abstenção;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;não;sim
+150418;"MárcioMarinho";prb;BA;não;sim;sim;não votou;sim;não;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;não;não
+152610;"RobertoAlves";prb;SP;não;sim;sim;sim;sim;sim;não;não;sim;não;não;sim;sim;sim;sim;sim;sim;não;não votou
+178944;"RobertoSales";prb;RJ;não;não votou;sim;sim;sim;não votou;sim;não;sim;não;não;sim;sim;sim;sim;sim;sim;não;sim
+122466;"RonaldoMartins";prb;CE;não;sim;sim;não;sim;não;não;não;sim;não;não;sim;sim;sim;sim;sim;sim;não;não
+178945;"RosangelaGomes";prb;RJ;não;sim;sim;sim;sim;não;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;não;sim
+178991;"SérgioReis";prb;SP;não;sim;sim;não votou;sim;sim;não votou;não votou;não votou;não votou;não votou;sim;sim;sim;não votou;não votou;sim;não;não votou
+178862;"TiaEron";prb;BA;não;sim;sim;sim;sim;não;não;não;sim;não;sim;sim;sim;não votou;sim;sim;sim;não;sim
+141555;"ViniciusCarvalho";prb;SP;não;sim;sim;não;sim;sim;não;não;sim;não;não;sim;sim;sim;sim;sim;sim;não;sim
+133374;"AdemirCamilo";pros;MG;sim;sim;sim;não;não votou;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;não;não;não
+74213;"AntonioBalhmann";pros;CE;não;não votou;sim;não;sim;sim;não votou;não votou;sim;não votou;não votou;não votou;não votou;não votou;sim;sim;7 não;sim;sim
+74103;"AriostoHolanda";pros;CE;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou
+;sim;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+178906;"BetoSalame";pros;PA;não;sim;sim;sim;sim;sim;sim;não;sim;sim;não votou;sim;sim;sim;não;não;não;não;não
+143632;"DomingosNeto";pros;CE;sim;sim;sim;abstenção;sim;sim;não votou;não votou;sim;não votou;sim;não votou;sim;sim;não;não votou;sim;não;sim
+160643;"Dr.JorgeSilva";pros;ES;não;sim;sim;não;sim;sim;sim;não;sim;sim;não;sim;sim;sim;não;sim;não;não;sim
+74558;"GivaldoCarimbão";pros;AL;não;sim;sim;não;sim;sim;sim;não votou;sim;não;não votou;não votou;sim;não votou;não;não;sim;sim;sim
+141450;"HugoLeal";pros;RJ;sim;não votou;sim;sim;sim;sim;não votou;não votou;não votou;não votou;sim;não votou;sim;sim;não;não;sim;sim;sim
+74299;"LeônidasCristino";pros;CE;não;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não;não;sim;não;sim
+74862;"MiroTeixeira";pros;RJ;sim;não;sim;sim;não;não;não;sim;sim;não;não votou;não;não;sim;não;não;não;não;não
+178951;"RafaelMotta";pros;RN;não;sim;sim;sim;sim;não votou;sim;não votou;sim;sim;sim;não;sim;sim;não;sim;sim;não;não votou
+160637;"RonaldoFonseca";pros;DF;não;sim;sim;não;não;não;não;sim;sim;não;sim;sim;não votou;sim;sim;sim;não;não;sim
+141552;"ValtenirPereira";pros;MT;não;não votou;sim;sim;sim;sim;não;não;sim;não;sim;sim;sim;não;sim;sim;não;não;sim
+74308;"VicenteArruda";pros;CE;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;sim;sim;sim;não;não votou;não votou;não votou;não votou;não votou
+178936;"AlexandreValle";prp;RJ;não;sim;sim;sim;sim;não;sim;sim;sim;não;sim;sim;sim;sim;não votou;não votou;sim;sim;sim
+178886;"JuscelinoFilho";prp;MA;sim;sim;sim;não;sim;sim;sim;não;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+179000;"MarceloÁlvaroAntônio";prp;MG;sim;sim;sim;sim;sim;não;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;não;sim
+178841;"CíceroAlmeida";prtb;AL;sim;sim;sim;sim;não;não;sim;não;sim;sim;não votou;sim;sim;sim;sim;sim;sim;não;não votou
+178903;"AdiltonSachetti";psb;MT;não;sim;sim;não;sim;não;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim
+74459;"ÁtilaLira";psb;PI;não;não;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não;não;sim;sim;não
+178834;Bebeto;psb;BA;não;não;sim;sim;não;não;sim;não;não votou;sim;não votou;não votou;não;não;não;não;não;não;não
+178838;"CésarMessias";psb;AC;não;não votou;não votou;não;não;não;sim;não;sim;sim;sim;não votou;não votou;sim;não;não;não votou;não;não votou
+178905;"FabioGarcia";psb;MT;não;sim;sim;não;sim;não;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+190149;"FabricioOliveira";psb;SC;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;sim;sim;sim;não votou;não votou;não votou;não votou;não votou
+141431;"FernandoCoelhoFilho";psb;PE;não;não;sim;não;sim;não;sim;não;sim;sim;sim;sim;sim;sim;não;não;sim;sim;sim
+178978;Flavinho;psb;SP;não;não;sim;sim;não;não;sim;não;sim;não;não;sim;sim;sim;não;não;não;não;sim
+152605;"GlauberBraga";psb;RJ;não;não;sim;sim;não;não;não;não;sim;não;não votou;não;não;não;não;não;não;não;não
+74419;"GonzagaPatriota";psb;PE;não;sim;sim;sim;não;não;sim;não;sim;não;não;não votou;sim;não votou;sim;sim;não;não;sim
+178964;"HeitorSchuch";psb;RS;não;não;sim;sim;não;não;sim;não;sim;sim;não;não votou;sim;sim;não;não;não;não;não
+97707;"HeráclitoFortes";psb;PI;sim;não;sim;não votou;não votou;não;sim;não;não votou;não votou;sim;sim;sim;sim;abstção;sim;sim;sim;sim
+73926;"JaneteCapiberibe";psb;AP;não;não votou;sim;sim;não votou;não votou;sim;não;sim;sim;não;não votou;não votou;não votou;não;não;7 não;não;não
+178842;JHC;psb;AL;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+178917;"JoãoFernandoCoutinho";psb;PE;não;não;sim;sim;sim;não;sim;não;sim;sim;não;sim;não;abstção;não;não;sim;não;sim
+73714;"JoséReinaldo";psb;MA;sim;não votou;sim;não;sim;sim;sim;não;sim;sim;sim;não;sim;não votou;sim;sim;sim;sim;sim
+160607;"JoseStédile";psb;RS;não;não;sim;sim;não;não;sim;não;sim;sim;não;não votou;não;sim;não;não;não;não;não
+73586;"JúlioDelgado";psb;MG;não;não;sim;sim;não;não votou;sim;não;sim;sim;não;sim;sim;sim;não;abstção;não;sim;sim
+160659;"KeikoOta";psb;SP;não;não;sim;sim;sim;sim;sim;não;sim;sim;não votou;não votou;não;sim;sim;sim;sim;sim;sim
+160663;"LeopoldoMeyer";psb;PR;não;não;sim;sim;não;não;sim;não;sim;não votou;sim;não votou;sim;sim;não;não;não;não;sim
+178931;"LucianoDucci";psb;PR;não;sim;sim;sim;não;não;sim;não;sim;sim;não;não votou;sim;sim;sim;sim;sim;sim;sim
+74784;"LuizaErundina";psb;SP;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;não;não;não;não;não votou;não votou;não
+178982;"LuizLauroFilho";psb;SP;não;não;sim;não;não votou;sim;sim;não;sim;não;não;sim;sim;sim;sim;sim;sim;sim;sim
+64960;"MariaHelena";psb;RR;não;não;sim;sim;não;não;sim;não;sim;sim;não;não votou;não votou;sim;não;não;sim;sim;não
+178919;"MarinaldoRosendo";psb;PE;sim;não votou;sim;sim;sim;não;sim;não;sim;sim;não;não votou;sim;sim;sim;sim;não;não;sim
+160642;"PastorEurico";psb;PE;sim;sim;não;sim;não;não;sim;não;sim;sim;não votou;sim;sim;sim;sim;sim;não;sim;sim
+160517;"PauloFoletto";psb;ES;não;sim;sim;sim;não;não;sim;não;sim;sim;sim;sim;não;sim;não;sim;não;não;sim
+178926;"RodrigoMartins";psb;PI;não;não;sim;sim;não;não;sim;não;sim;sim;não;não;sim;sim;não votou;não votou;não;sim;sim
+92776;"StefanoAguiar";psb;MG;sim;não;sim;abstenção;não;não;sim;não;sim;sim;sim;não votou;não;sim;sim;sim;sim;sim;sim
+178922;"TadeuAlencar";psb;PE;não;não;sim;sim;sim;não;sim;não;sim;sim;não;não votou;não;não;não;não;não;não;não
+178898;"TenenteLúcio";psb;MG;não;não;sim;sim;não;sim;sim;sim;sim;sim;não;sim;não;sim;não;não;sim;sim;sim
+178901;"TerezaCristina";psb;MS;não votou;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;não;não;sim;não;sim;sim;não votou;sim
+141384;"ValadaresFilho";psb;SE;não;não;sim;sim;não;não;não votou;não votou;sim;não votou;não;sim;sim;sim;não;sim;sim;não;não votou
+137070;"VicentinhoJúnior";psb;TO;não;sim;sim;não;sim;sim;sim;não;sim;sim;não;não votou;não votou;sim;sim;sim;sim;sim;sim
+160543;"AndreMoura";psc;SE;sim;não votou;sim;sim;não votou;não;sim;não votou;sim;sim;não votou;não votou;não;sim;sim;sim;sim;sim;sim
+160578;"EdmarArruda";psc;PR;sim;não votou;sim;não votou;não;sim;sim;sim;não votou;sim;não votou;sim;não;sim;sim;sim;sim;não;não votou
+92346;"EduardoBolsonaro";psc;SP;sim;sim;sim;não;não;não;sim;abstenção;sim;sim;não;sim;não;sim;sim;sim;sim;sim;não votou
+99654;"EriveltonSantana";psc;BA;sim;sim;sim;não;não;não;sim;não;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim
+74270;"GilbertoNascimento";psc;SP;sim;sim;sim;sim;não;não;não votou;não votou;sim;não votou;sim;não votou;não;sim;sim;sim;sim;sim;sim
+178855;"IrmãoLazaro";psc;BA;não;sim;sim;sim;não;não;não;sim;sim;sim;não votou;não votou;sim;sim;não votou;sim;não;sim;sim
+67312;"JúliaMarinho";psc;PA;não votou;sim;sim;sim;não;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;não votou;sim
+178852;"MarcosReategui";psc;AP;não;não;sim;abstenção;não;não votou;sim;sim;sim;sim;não;não votou;sim;não votou;não;sim;sim;não;não
+160601;"Pr.MarcoFeliciano";psc;SP;sim;sim;sim;sim;não votou;não votou;não;sim;sim;sim;sim;não votou;não;sim;sim;sim;sim;não;não
+148134;"ProfessorVictórioGalli";psc;MT;sim;sim;sim;sim;não;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;não;sim
+178998;"RaquelMuniz";psc;MG;sim;sim;sim;sim;não;não;sim;não;sim;sim;sim;sim;não;sim;sim;sim;sim;não;sim
+4930;"SilvioCosta";psc;PE;não;sim;sim;não;sim;sim;não;não;sim;não;sim;sim;sim;não;não;não;sim;sim;sim
+74385;Takayama;psc;PR;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;sim;sim;sim;não votou;sim;não votou;não votou;não votou
+178833;"AlexandreSerfiotis";psd;RJ;não;não;sim;não votou;sim;não;não;não;sim;não;não;sim;não;sim;sim;sim;sim;sim;sim
+74090;"ÁtilaLins";psd;AM;não votou;sim;sim;não;sim;sim;não votou;não votou;sim;sim;não votou;sim;sim;sim;sim;sim;sim;não votou;sim
+73720;"CesarSouza";psd;SC;sim;sim;sim;sim;não votou;sim;sim;sim;não votou;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+178841;"CíceroAlmeida";psd;AL;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;sim;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+160552;"DanrleideDeusHinterholz";psd;RS;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não
+178908;"DelegadoÉderMauro";psd;PA;não;sim;sim;sim;não;sim;sim;não;sim;não;não;sim;sim;sim;sim;sim;sim;sim;abstenção
+160588;"DiegoAndrade";psd;MG;não;sim;sim;não votou;sim;sim;não votou;não votou;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178930;"EvandroRoman";psd;PR;não;sim;sim;sim;sim;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141428;"FábioFaria";psd;RN;não;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;abstção;sim;sim;sim;sim;sim
+178969;"FábioMitidieri";psd;SE;não;sim;sim;não votou;sim;sim;sim;não;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim
+141430;"FelipeBornier";psd;RJ;sim;sim;sim;sim;não;não;sim;sim;sim;sim;não votou;sim;não;sim;sim;sim;sim;sim;não votou
+160676;"FernandoTorres";psd;BA;sim;sim;sim;não;sim;não votou;não votou;não votou;sim;não votou;sim;sim;sim;sim;não;não;sim;sim;sim
+178907;"FranciscoChapadinha";psd;PA;não votou;sim;não votou;sim;não votou;sim;sim;não;sim;não;sim;sim;sim;sim;sim;não votou;não votou;não votou;sim
+178980;Goulart;psd;SP;não;não;sim;abstenção;não votou;sim;sim;não;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim
+178981;"HerculanoPassos";psd;SP;não;sim;sim;abstenção;sim;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+160596;"HeulerCruvinel";psd;GO;não votou;sim;não votou;não;sim;não;sim;não;sim;não;sim;não;não;sim;sim;sim;não votou;não votou;sim
+141389;"IndiodaCosta";psd;RJ;não;sim;sim;abstenção;não votou;sim;não;sim;sim;não;não votou;sim;sim;sim;sim;sim;sim;sim;não votou
+81232;"IrajáAbreu";psd;TO;não votou;sim;não votou;sim;sim;sim;não votou;não votou;sim;não votou;sim;não votou;não votou;sim;sim;sim;não votou;não votou;sim
+74665;"JaimeMartins";psd;MG;sim;sim;sim;não votou;sim;sim;sim;sim;não votou;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+74273;"JeffersonCampos";psd;SP;sim;sim;sim;abstenção;não;não;sim;não;sim;sim;sim;não votou;não votou;sim;sim;sim;sim;sim;sim
+160571;"JoãoRodrigues";psd;SC;sim;sim;sim;não;não;não;sim;não;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+178910;"JoaquimPassarinho";psd;PA;não;sim;sim;sim;não;sim;sim;não;sim;não;não votou;sim;sim;sim;sim;sim;sim;sim;sim
+74140;"JoséCarlosAraújo";psd;BA;não;sim;sim;sim;sim;não votou;sim;não;sim;sim;sim;não votou;não;sim;sim;sim;sim;sim;sim
+160619;"JoséNunes";psd;BA;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não votou;sim;sim;não;não;sim
+74317;"JúlioCesar";psd;PI;sim;sim;sim;abstenção;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141500;"MarcosMontes";psd;MG;sim;sim;sim;não;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+74574;"PauloMagalhães";psd;BA;não;sim;sim;não;sim;sim;sim;não;sim;não;sim;sim;sim;sim;não;não;sim;não;não votou
+160655;"RicardoIzar";psd;SP;sim;não;sim;não votou;sim;sim;sim;não;sim;não;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+160426;"RogérioRosso";psd;DF;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;abstção;sim;sim;sim;sim;sim;sim
+141536;"RômuloGouveia";psd;PB;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim
+73808;"SérgioBrito";psd;BA;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não;sim
+160612;"SergioZveiter";psd;RJ;não votou;não votou;não votou;sim;sim;sim;sim;não;sim;sim;não votou;não votou;não votou;sim;não votou;não votou;7 não votou;não votou;sim
+74356;"SilasCâmara";psd;AM;não;sim;sim;abstenção;sim;sim;sim;não;sim;sim;sim;sim;não;sim;não votou;não votou;sim;sim;não votou
+178947;"SóstenesCavalcante";psd;RJ;sim;sim;sim;sim;não;não;sim;sim;sim;não;sim;sim;não;sim;sim;sim;sim;sim;não
+160617;"ThiagoPeixoto";psd;GO;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;sim;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+141560;"WalterIhoshi";psd;SP;não;sim;sim;não;sim;sim;não;não;sim;não;não votou;sim;abstção;sim;sim;sim;sim;sim;sim
+178875;"AlexandreBaldy";psdb;GO;não votou;sim;não votou;abstenção;não;não;sim;sim;sim;não;sim;não votou;sim;não votou;sim;sim;não votou;não votou;sim
+141454;"AlfredoKaefer";psdb;PR;não;sim;sim;não;não;não;sim;não;sim;não;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+73584;"AntonioCarlosMendesThame";psdb;SP;não;não votou;sim;sim;não votou;não;não;não;sim;não;sim;sim;sim;sim;não votou;não votou;sim;sim;não votou
+160530;"AntonioImbassahy";psdb;BA;não;sim;sim;não;não;não;não;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178847;"ArthurVirgílioBisneto";psdb;AM;sim;sim;sim;sim;não;não;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178915;"BetinhoGomes";psdb;PE;não;sim;sim;sim;não;não;sim;sim;sim;não;sim;sim;sim;abstção;não;não;sim;sim;sim
+74650;"BonifáciodeAndrada";psdb;MG;sim;sim;sim;sim;não votou;não;não;não;sim;não;sim;sim;não;sim;sim;sim;sim;sim;não votou
+160589;"BrunaFurlan";psdb;SP;sim;sim;sim;sim;não votou;não;sim;não;sim;não;sim;não votou;não votou;sim;sim;sim;sim;sim;sim
+141394;"BrunoAraújo";psdb;PE;sim;sim;sim;abstenção;não votou;não;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;não votou
+178976;"BrunoCovas";psdb;SP;não;não;sim;não;não;não;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178891;"CaioNarcio";psdb;MG;não;sim;sim;abstenção;não;não;sim;não;não votou;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+74262;"CarlosSampaio";psdb;SP;não;sim;sim;sim;não;não;sim;não;sim;não;não votou;não votou;não votou;sim;sim;sim;sim;sim;não votou
+178876;"CélioSilveira";psdb;GO;sim;sim;sim;abstenção;não;não;sim;não;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim
+178916;"DanielCoelho";psdb;PE;sim;não;sim;sim;não;não;sim;sim;sim;não;sim;sim;não;abstção;sim;sim;sim;abstenção;sim
+164359;"DelegadoWaldir";psdb;GO;sim;sim;sim;sim;não;não;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+160758;"DomingosSávio";psdb;MG;não;sim;sim;abstenção;não;não votou;sim;não;sim;não;sim;não votou;não;sim;sim;sim;sim;sim;sim
+74655;"EduardoBarbosa";psdb;MG;não;sim;sim;sim;não;não;sim;não;sim;sim;sim;sim;não;sim;não;não;sim;sim;sim
+178977;"EduardoCury";psdb;SP;não;sim;sim;abstenção;não;não;não;sim;sim;não;sim;não votou;não;sim;sim;sim;sim;sim;sim
+181316;"ElizeuDionizio";psdb;MS;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;sim;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+178877;"FábioSousa";psdb;GO;sim;não votou;não;abstenção;não;não;não;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim
+178966;"GeovaniadeSá";psdb;SC;não;não votou;sim;sim;não;não;sim;não;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;não
+178878;"GiuseppeVecci";psdb;GO;abstenção;sim;sim;sim;não;não;sim;não;sim;não;sim;não;não votou;sim;sim;sim;sim;sim;sim
+4931;Izalci;psdb;DF;não;sim;sim;não;não;não;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+74366;"JoãoCampos";psdb;GO;não;sim;sim;abstenção;não;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+74445;"JoãoCastelo";psdb;MA;sim;sim;sim;sim;não;não;sim;não;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+178856;"JoãoGualberto";psdb;BA;sim;não votou;não votou;abstenção;não;não;sim;não;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim
+178988;"JoãoPauloPapa";psdb;SP;não;não votou;sim;sim;não;não;não;não;sim;não;sim;sim;sim;sim;não;sim;sim;sim;sim
+74570;"JutahyJunior";psdb;BA;sim;não votou;sim;não;não votou;não votou;não;não;não;não;sim;sim;sim;sim;sim;sim;sim;sim;não votou
+74277;"LobbeNeto";psdb;SP;não votou;não votou;não votou;sim;não;não;não;sim;sim;não;sim;sim;sim;sim;sim;sim;não votou;não votou;sim
+73778;"LuizCarlosHauly";psdb;PR;não;sim;sim;sim;não;não;não;não;sim;não;não votou;não votou;sim;não votou;sim;sim;sim;sim;sim
+160565;"MaraGabrilli";psdb;SP;não;sim;sim;não votou;não;não;não votou;não votou;não votou;não votou;sim;não votou;sim;não votou;não;sim;sim;abstenção;não
+160536;"MarcoTebaldi";psdb;SC;não;sim;sim;sim;não;não;sim;não;sim;sim;sim;não votou;não votou;sim;sim;sim;sim;sim;sim
+159238;"MarcusPestana";psdb;MG;não;sim;sim;abstenção;não;não;sim;não;sim;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+178956;"MarianaCarvalho";psdb;RO;não votou;sim;não votou;sim;não;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;não votou;não votou;sim
+178827;"MaxFilho";psdb;ES;abstenção;sim;sim;sim;não;não;abstenção;sim;sim;não;sim;não votou;não;sim;não;não;não;não;não votou
+178984;"MiguelHaddad";psdb;SP;não;sim;sim;abstenção;não;não;não;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+160567;"NelsonMarchezanJunior";psdb;RS;não;sim;sim;não;não;não;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+166401;"NilsonLeitão";psdb;MT;não;sim;sim;abstenção;não votou;não;sim;sim;sim;não votou;sim;não votou;não;sim;sim;sim;sim;sim;sim
+74352;"NilsonPinto";psdb;PA;sim;sim;sim;não;não;não;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141515;"OtavioLeite";psdb;RJ;sim;não;sim;não;não;não;sim;não;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141516;"PauloAbi-Ackel";psdb;MG;sim;sim;sim;não;não;não;sim;não;sim;não;sim;sim;sim;não votou;sim;sim;sim;sim;sim
+178912;"PedroCunhaLima";psdb;PB;sim;sim;sim;não;não;não;não;não;sim;não;sim;não;não;sim;sim;sim;sim;sim;sim
+178844;"PedroVilela";psdb;AL;não votou;sim;não votou;abstenção;não;não;não;sim;sim;não;sim;não;sim;sim;sim;sim;não votou;não votou;sim
+74216;"RaimundoGomesdeMatos";psdb;CE;não;sim;não votou;abstenção;não;não;sim;não;sim;sim;sim;não votou;sim;sim;sim;sim;não votou;sim;sim
+141472;"RicardoTripoli";psdb;SP;sim;sim;sim;não;não;não;sim;sim;sim;não;sim;sim;não votou;sim;sim;sim;sim;sim;sim
+178840;Rocha;psdb;AC;sim;sim;sim;não votou;não;não;sim;não;não votou;não;sim;sim;não;sim;sim;sim;sim;sim;sim
+141531;"RodrigodeCastro";psdb;MG;sim;sim;sim;sim;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141535;"RogérioMarinho";psdb;RN;sim;sim;sim;abstenção;não;não;sim;sim;sim;não;sim;sim;sim;sim;não votou;sim;sim;sim;sim
+178935;Rossoni;psdb;PR;sim;sim;sim;sim;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178990;"SamuelMoreira";psdb;SP;não;sim;não votou;não;não;não;não;sim;sim;não;sim;sim;sim;sim;sim;sim;não votou;sim;sim
+178961;Shéridan;psdb;RR;sim;não votou;sim;sim;não;não;não votou;não votou;sim;não votou;sim;sim;não votou;sim;sim;sim;sim;sim;sim
+73560;"SilvioTorres";psdb;SP;não;sim;sim;abstenção;não;não;sim;não;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim
+141553;"VanderleiMacris";psdb;SP;não;sim;sim;abstenção;não votou;não;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;não votou
+178992;"VitorLippi";psdb;SP;não;sim;sim;sim;não;não;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178881;"AluisioMendes";psdc;MA;não;sim;sim;não;sim;sim;não;não;não;sim;sim;sim;sim;não;sim;sim;sim;não;sim
+178802;"LuizCarlosRamos";psdc;RJ;sim;sim;sim;sim;sim;não;não;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178867;Macedo;psl;CE;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;sim;não votou;não votou;não votou;7 sim;não;não
+74171;"ChicoAlencar";psol;RJ;não;não;sim;sim;não;não;sim;não;sim;não;não;não;não;não;não;obstção;obstção;não;não
+134812;"EdmilsonRodrigues";psol;PA;não;não;sim;sim;não;não;sim;não;sim;não;não;não;não;não;não;obstção;obstção;não;não
+152605;"GlauberBraga";psol;RJ;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou
+;não;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+73531;"IvanValente";psol;SP;não;não;sim;sim;não;não;sim;não;sim;não;não;não;não;não;não;obstção;obstção;não;não
+160672;"JeanWyllys";psol;RJ;não;não;sim;sim;não;não;sim;não;sim;não;não;não;não;não;não;obstção;obstção;não;não
+178890;"AdelmoCarneiroLeão";pt;MG;não;não;sim;sim;sim;sim;sim;não;não votou;não votou;não;sim;sim;não;não;não;não;não;não
+160508;"AfonsoFlorence";pt;BA;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+160511;"AlessandroMolon";pt;RJ;não;não;sim;sim;sim;sim;sim;não;sim;não;não votou;sim;sim;não;não;não;não;não;não
+178973;"AnaPerugini";pt;SP;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+178974;"AndresSanchez";pt;SP;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;sim;não;não;não;não;não
+178837;Angelim;pt;AC;não;não;sim;sim;sim;sim;sim;não;sim;não;não;abstção;sim;não;não;não;não;não;não
+73433;"ArlindoChinaglia";pt;SP;não;não;sim;sim;sim;sim;sim;não;sim;não;não;não votou;sim;não votou;não;não;não;não;não
+159237;"AssisCarvalho";pt;PI;não;não;sim;não votou;sim;sim;sim;não;não votou;não;sim;sim;sim;não;não votou;não votou;não;não;não
+74378;"AssisdoCouto";pt;PR;não;não;sim;sim;sim;não votou;sim;não;sim;sim;sim;não;sim;abstção;não;não;não;não;não
+73701;"BeneditadaSilva";pt;RJ;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não votou;não;não;não;não;não
+141335;"BetoFaro";pt;PA;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+160538;"BohnGass";pt;RS;não;não;sim;sim;sim;sim;sim;não;sim;não;não;abstção;sim;não;não;não;não;não;não
+178853;Caetano;pt;BA;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não votou;não;não;não;não;não
+141398;"CarlosZarattini";pt;SP;não;não;sim;não votou;sim;sim;sim;não;não votou;não;sim;sim;sim;não;não;não;não;não;não
+141439;"ChicoDAngelo";pt;RJ;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+141413;"DécioLima";pt;SC;não;não;sim;sim;não votou;sim;sim;não votou;sim;não;não;sim;não votou;não;não;não;não;não;não
+132504;"EnioVerri";pt;PR;não;não;sim;sim;sim;sim;sim;não;sim;não;sim;sim;sim;não;não;não;não;não;não
+160575;"ErikaKokay";pt;DF;não;não;sim;sim;não votou;não votou;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+146829;"FabianoHorta";pt;RJ;não votou;não;não votou;não votou;sim;sim;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não
+73481;"FernandoMarroni";pt;RS;não;não;sim;sim;sim;sim;sim;não;sim;não;não votou;sim;sim;não;não;não;não;não;não
+129037;"GabrielGuimarães";pt;MG;não;não;sim;não votou;sim;sim;sim;não;não votou;não;sim;não votou;sim;não;não;não;não;não;não votou
+178872;"GivaldoVieira";pt;ES;não;não;sim;sim;sim;sim;sim;não;sim;não;sim;sim;sim;não;não;não;não;não;não
+178873;"HelderSalomão";pt;ES;não;não;sim;sim;sim;sim;sim;não;sim;não;não;abstção;sim;não;não;não;não;não;não
+73482;"HenriqueFontana";pt;RS;não;não;sim;sim;sim;sim;sim;não;sim;não;não votou;sim;sim;não;não;não;não;não;não
+178970;"JoãoDaniel";pt;SE;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+178857;"JorgeSolla";pt;BA;não;não;sim;sim;sim;sim;sim;não;sim;sim;não;não votou;sim;não votou;não;não;não;não;não
+141464;"JoséAirtonCirilo";pt;CE;não;não;sim;sim;sim;sim;sim;não;sim;não;sim;sim;não votou;não;não;não;não;não;não
+141470;"JoséGuimarães";pt;CE;não;sim;sim;não votou;sim;sim;sim;não;sim;não;sim;não votou;sim;não;não;não;não;não;não
+74275;"JoséMentor";pt;SP;não;não;sim;sim;sim;sim;sim;não;sim;não;não votou;não votou;sim;não;não;não;não;não;não
+178825;"LeodeBrito";pt;AC;não;não;não;sim;sim;sim;sim;não;sim;não;não;não votou;sim;não;não;não;não;não;não
+74156;"LeonardoMonteiro";pt;MG;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;não votou;não;não;não;não;não;não
+74041;"LuizCouto";pt;PB;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;não;não;não;não;não;não;não
+178866;"LuizianneLins";pt;CE;não;não;sim;sim;não votou;não votou;sim;não;sim;não;não;sim;sim;não votou;não;não;não;não;não
+74688;"LuizSérgio";pt;RJ;não;sim;sim;sim;não votou;sim;sim;não;não votou;não;não votou;sim;sim;não;não;não;não;não;não
+133373;"MarcoMaia";pt;RS;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+160535;Marcon;pt;RS;não;não;sim;sim;não votou;não votou;sim;não;sim;não;não;sim;não;não;não;não;não;não;não
+171619;"MargaridaSalomão";pt;MG;não;não;sim;sim;sim;sim;sim;não;sim;não;abstenção;sim;sim;não;não;não;não;não;não
+74398;"MariadoRosário";pt;RS;não;não;não;sim;sim;sim;sim;não;sim;não;não;sim;sim;não votou;não;não;não;não;não
+188097;"MerlongSolano";pt;PI;não votou;abstenção;não votou;não votou;não votou;sim;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não
+178859;"MoemaGramacho";pt;BA;não;não;sim;sim;sim;sim;sim;não;não votou;não;não;sim;sim;não;não;não;não;não;não
+178986;"NiltoTatto";pt;SP;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+178868;"OdoricoMonteiro";pt;CE;não;não;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;não votou;abstção;não;não;não;não;não
+160556;"PadreJoão";pt;MG;não;não;sim;sim;não votou;não votou;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+171617;Paulão;pt;AL;não;não;sim;sim;sim;sim;sim;não;sim;não;abstenção;sim;sim;não;não;não;não;não;não
+74400;"PauloPimenta";pt;RS;não;não;sim;sim;sim;sim;sim;não;sim;não;não;não votou;sim;não;não;não;não;não;não
+141488;"PauloTeixeira";pt;SP;não;não;sim;sim;sim;sim;sim;não;sim;não;não;não votou;não votou;não;não;não;não;não;não
+160604;"PedroUczai";pt;SC;não;não;sim;sim;não votou;não votou;sim;não;sim;não;não;abstção;sim;não;não;não;não;não;não
+141445;"PepeVargas";pt;RS;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+160641;"ProfessoraMarcivania";pt;AP;não;não;sim;sim;não votou;não votou;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+74161;"ReginaldoLopes";pt;MG;não;não votou;sim;sim;sim;sim;sim;não;não;não;não;não votou;sim;não votou;não;não;não;não;não votou
+74371;"RubensOtoni";pt;GO;não;não;sim;sim;sim;sim;sim;não;sim;não;sim;sim;sim;sim;não;não;não;não;não votou
+160630;"SáguasMoraes";pt;MT;não;não votou;sim;sim;sim;não votou;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+160613;"SibáMachado";pt;AC;não;não;sim;sim;sim;sim;sim;não;sim;não;sim;não votou;não votou;não;não;não;não;não;não
+178934;"ToninhoWandscheer";pt;PR;não;não votou;sim;sim;sim;sim;sim;não;não votou;sim;sim;não;sim;sim;não;não votou;não;não;não
+160610;"ValmirAssunção";pt;BA;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+113247;"ValmirPrascidelli";pt;SP;não;não;sim;sim;sim;sim;sim;não;não votou;não;sim;sim;não votou;não;não;não;não;não;não
+74376;"VanderLoubet";pt;MS;não;não votou;sim;não votou;sim;sim;sim;não;não votou;sim;não;não votou;sim;sim;não;não votou;não;não;não
+160622;"VicenteCandido";pt;SP;não;não;sim;sim;sim;sim;sim;não;não votou;não;sim;não votou;não votou;não votou;não;não;7 não;não;não
+74283;Vicentinho;pt;SP;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;sim;não;não;não;não;não;não
+189593;"WadihDamous";pt;RJ;não;não votou;sim;sim;não votou;não votou;sim;não;sim;não;não;sim;não;não;não;não;não;não;não votou
+160569;"WaldenorPereira";pt;BA;não;não;sim;sim;sim;sim;sim;não;sim;não;não;sim;não votou;não votou;não;não;não;não;não
+160518;"WelitonPrado";pt;MG;abstenção;não;abstenção;abstenção;não;não;abstenção;abstenção;abstenção;abstenção;não;sim;sim;sim;sim;sim;abstção;abstenção;não
+160592;"ZecaDirceu";pt;PR;não;não;não;sim;sim;sim;sim;não;sim;não;não;não votou;sim;não;não;não;não;não;não
+178902;"ZecadoPt";pt;MS;não;não;sim;não votou;sim;sim;sim;não;não votou;sim;não;sim;sim;não;não votou;não votou;não;não;não
+178889;"ZéCarlos";pt;MA;não;não;sim;sim;não votou;não votou;sim;não;sim;não;não votou;sim;não;não;não;não;não;não;não
+73931;"ZéGeraldo";pt;PA;não;não;sim;sim;sim;sim;sim;não;sim;não;não;não votou;sim;não;não;não;não;não;não
+178914;"AdalbertoCavalcanti";ptb;PE;sim;não votou;sim;sim;não votou;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não votou
+178968;"AdelsonBarreto";ptb;SE;sim;não;sim;sim;não;não;sim;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+73458;"AlexCanziani";ptb;PR;não;sim;não;sim;sim;sim;não;não votou;sim;não;sim;não votou;sim;não votou;não;não;sim;sim;sim
+160553;"AntonioBrito";ptb;BA;sim;sim;sim;abstenção;não;abstenção;não;não;sim;sim;abstenção;não votou;sim;sim;não;não;sim;sim;sim
+73434;"ArnaldoFariadeSá";ptb;SP;sim;sim;sim;sim;não;não;não;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;não
+74291;"ArnonBezerra";ptb;CE;sim;sim;não;não votou;sim;sim;não votou;não votou;sim;não votou;sim;não votou;não votou;sim;sim;não;sim;sim;sim
+74535;"BenitoGama";ptb;BA;sim;não votou;sim;não;não;não;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+93472;"CristianeBrasil";ptb;RJ;sim;sim;sim;sim;não;não;não votou;não votou;não votou;não votou;não votou;não votou;não votou;sim;sim;sim;sim;sim;não votou
+74172;Deley;ptb;RJ;sim;não;sim;sim;não;não;não votou;não votou;sim;não votou;sim;abstção;sim;sim;não;não votou;sim;sim;não
+160640;"ErosBiondini";ptb;MG;sim;sim;sim;sim;não;não;sim;não;sim;sim;sim;não votou;sim;sim;não;sim;sim;sim;não
+160572;"JorgeCôrteReal";ptb;PE;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim
+74351;"JosuéBengtson";ptb;PA;sim;sim;sim;não;não;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+73666;"JovairArantes";ptb;GO;sim;sim;não;abstenção;sim;sim;sim;não;sim;sim;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+178851;"JoziAraújo";ptb;AP;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;sim;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+178851;"JoziRocha";ptb;AP;sim;sim;sim;sim;sim;sim;sim;não;sim;sim;não votou;não votou;não votou;não;sim;sim;sim;sim;sim
+141485;"LuizCarlosBusato";ptb;RS;sim;não votou;sim;sim;sim;sim;não votou;não votou;não votou;não votou;sim;não votou;sim;sim;não;não;sim;sim;sim
+73553;"NelsonMarquezelli";ptb;SP;sim;sim;sim;não;sim;sim;não;não;sim;sim;sim;não;sim;não votou;sim;sim;sim;sim;sim
+74359;"NiltonCapixaba";ptb;RO;não votou;não votou;não votou;sim;sim;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;não votou;não votou;sim
+74319;"PaesLandim";ptb;PI;sim;não;sim;não votou;sim;sim;não;não;sim;não;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+74449;"PedroFernandes";ptb;MA;não;sim;sim;não;sim;sim;não;sim;sim;não;não votou;não;não;sim;não;não;sim;sim;não
+178920;"RicardoTeobaldo";ptb;PE;sim;sim;sim;não votou;sim;sim;sim;não;não votou;sim;sim;não votou;não votou;sim;sim;sim;sim;sim;sim
+163321;"RonaldoNogueira";ptb;RS;não;não;sim;não;não;não;não;não;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim;não
+141542;"SérgioMoraes";ptb;RS;sim;sim;sim;não;não;não;sim;não;sim;sim;sim;não votou;não;sim;sim;sim;sim;sim;não votou
+160631;"WalneyRocha";ptb;RJ;sim;sim;sim;não;não;não;sim;não;sim;sim;sim;não;não;sim;sim;sim;sim;sim;sim
+160636;"WilsonFilho";ptb;PB;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;não;sim;não votou;sim;sim;sim;não votou;sim
+178923;"ZecaCavalcanti";ptb;PE;sim;sim;sim;não votou;sim;sim;sim;não;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim;não
+178999;Brunny;ptc;MG;não;não;não votou;sim;sim;sim;não;não;sim;não;não;sim;não votou;não;sim;sim;não votou;não;não
+178863;"UlduricoJunior";ptc;BA;não;não;sim;não votou;sim;não;não;não;não votou;sim;sim;sim;sim;sim;não;não;sim;não;não
+160510;"LuisTibé";ptdob;MG;não;sim;sim;sim;sim;sim;não;não;sim;não;não votou;sim;sim;sim;sim;sim;sim;não;sim
+186775;"PastorFranklin";ptdob;MG;não;sim;sim;não;sim;não;sim;não;não votou;não;sim;sim;sim;sim;sim;sim;sim;não;sim
+69871;Bacelar;ptn;BA;não;sim;sim;não;sim;sim;não;não;sim;não;sim;sim;sim;sim;não;não;sim;não;não
+178928;"ChristianedeSouzaYared";ptn;PR;não;sim;sim;sim;não;não;não;não;sim;não;não;sim;sim;sim;não;não;não;não;não
+178893;"DelegadoEdsonMoreira";ptn;MG;não;sim;sim;não;sim;sim;não;não;sim;não;não;sim;não;sim;sim;sim;sim;sim;sim
+178989;"RenataAbreu";ptn;SP;sim;sim;sim;sim;sim;sim;sim;não;não votou;não;sim;sim;sim;sim;sim;sim;não;não;sim
+178830;"Dr.SinvalMalheiros";pv;SP;não;não;sim;sim;não;não;não votou;não votou;sim;não votou;sim;sim;não votou;sim;não;sim;sim;não;não votou
+178871;"EvairdeMelo";pv;ES;não;sim;sim;sim;sim;não;sim;sim;sim;sim;não;sim;não;sim;não;sim;não;sim;sim
+178828;"EvandroGussi";pv;SP;sim;não;sim;não votou;não;não;sim;não;sim;não;sim;sim;não votou;não;não;não;sim;sim;sim
+141427;"FábioRamalho";pv;MG;sim;não;sim;não votou;não votou;sim;sim;não;sim;sim;sim;sim;sim;não;não;não;sim;sim;sim
+178832;Leandre;pv;PR;não;não;sim;sim;não;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;não;não;sim
+80920;Penna;pv;SP;não;não votou;sim;sim;não votou;não votou;sim;sim;sim;não;não votou;não votou;sim;não;sim;não;sim;não;não votou
+74210;"SarneyFilho";pv;MA;não;não;não votou;sim;sim;sim;sim;sim;não votou;sim;não votou;não votou;sim;não;não;não;sim;não;não votou
+178888;"VictorMendes";pv;MA;sim;não;sim;sim;sim;sim;sim;não;sim;não;sim;não;sim;sim;não votou;não votou;sim;não;sim
+141563;"WilliamWoo";pv;SP;não votou;não;não votou;não votou;sim;não;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;sim
+160511;"AlessandroMolon";rede;RJ;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+178927;"AlielMachado";rede;PR;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+178883;"ElizianeGama";rede;MA;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+178965;"JoãoDerly";rede;RS;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+74862;"MiroTeixeira";rede;RJ;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;não votou;não votou;não votou;6 não votou;7 não votou;não votou;não votou
+160600;"ArthurOliveiraMaia";solidaried;BA;sim;não votou;sim;abstenção;não;não;não votou;não votou;sim;não votou;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+73655;"AugustoCarvalho";solidaried;DF;sim;não;sim;sim;não;não;sim;sim;sim;sim;sim;sim;não;não;não;não;sim;não;sim
+160665;"AugustoCoutinho";solidaried;PE;não;sim;não;não;não;não;não votou;não votou;sim;não votou;sim;não votou;sim;sim;sim;sim;sim;sim;sim
+160512;Aureo;solidaried;RJ;não;não votou;sim;sim;não;não;não votou;não votou;sim;não votou;sim;sim;sim;sim;não;não;sim;sim;sim
+74040;"BenjaminMaranhão";solidaried;PB;não;sim;sim;abstenção;não;não;não votou;não votou;sim;não votou;sim;sim;sim;sim;sim;sim;sim;sim;sim
+74163;"CarlosManato";solidaried;ES;sim;sim;sim;não;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+181316;"ElizeuDionizio";solidaried;MS;não;sim;sim;sim;sim;sim;sim;não;sim;sim;não votou;sim;não;sim;sim;sim;sim;não;sim
+178953;"ExpeditoNetto";solidaried;RO;não;sim;sim;não votou;não;não votou;sim;não;não votou;sim;não;sim;sim;sim;não;sim;sim;sim;sim
+178941;"EzequielTeixeira";solidaried;RJ;abstenção;sim;sim;abstenção;não;não votou;sim;sim;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim
+160646;"FernandoFrancischini";solidaried;PR;sim;não votou;sim;sim;não votou;não votou;sim;não;sim;sim;não votou;não votou;sim;sim;sim;sim;sim;sim;não votou
+160669;"GeneciasNoronha";solidaried;CE;sim;não votou;sim;não votou;não;não;sim;não;não votou;sim;sim;sim;sim;não votou;sim;não votou;sim;sim;sim
+178842;JHC;solidaried;AL;não;sim;sim;sim;não;não;não;sim;sim;sim;não votou;sim;sim;sim;não;sim;não;não;não votou
+151965;"JoséMaiaFilho";solidaried;PI;sim;não votou;sim;sim;não votou;não votou;sim;não votou;sim;sim;não votou;não votou;não votou;não votou;não;não;7 sim;sim;não votou
+151208;"LaercioOliveira";solidaried;SE;sim;sim;sim;sim;não;não;não votou;não votou;sim;não votou;sim;sim;sim;sim;sim;não votou;não votou;sim;sim
+178879;"LucasVergilio";solidaried;GO;sim;sim;sim;sim;não;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+151965;Mainha;solidaried;PI;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não;não votou;sim;sim;não votou;não votou;7 não votou;não votou;não votou
+141518;"PauloPereiradaSilva";solidaried;SP;sim;sim;não votou;abstenção;não;não;sim;sim;sim;sim;sim;não votou;não;sim;sim;sim;não votou;sim;sim
+73930;"WladimirCosta";solidaried;PA;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;não votou;sim;não votou;não votou;não votou;7 não votou;não votou;não votou
+160632;"ZéSilva";solidaried;MG;sim;sim;sim;sim;não;não;sim;não;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim;sim
+178938;"CaboDaciolo";s.part.;RJ;não votou;não;sim;não votou;não;não;não;sim;não votou;não;não;não votou;não;não votou;não;não;não;não votou;não
