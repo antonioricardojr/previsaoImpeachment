@@ -1,10 +1,10 @@
-"partido";"votacao_PL_10"
+"partido";"orientacao_PL13"
 PmdbPpPtbPscPhsPen;Sim
 PT;Sim
 PSDB;Sim
 PrbPtnPmnPrpPsdcPrtbPtcPslPtdoB;Sim
-PR;Sim
 PSD;Sim
+PR;Sim
 PSB;Sim
 DEM;Sim
 PDT;Sim
@@ -13,7 +13,6 @@ PCdoB;Sim
 PROS;Sim
 PPS;Sim
 PV;Sim
-Repr.PSOL;Sim
+PSOL;Sim
 Minoria;Sim
 GOV.;Sim
-      
