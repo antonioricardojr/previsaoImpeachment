@@ -14,7 +14,7 @@ summary(df)
 
 str(df)
 
-df <- df %>% select(-nome, -deputado)
+df <- df %>% select(-id_dep,-nome, -deputado)
 
 trainIndex <- createDataPartition(df$IMPEACHMENT, p = .75, list = FALSE, times = 1)
 
@@ -24,9 +24,11 @@ test <- df[-trainIndex,]
 
 
 
-treeModel <- train(IMPEACHMENT ~ ., data = train,method = "C5.0")
+treeModel <- train(IMPEACHMENT ~ partido + UF, data = select(train, partido, UF, IMPEACHMENT),method = "rf")
 
 treeModel
+
+#plot(varImp(treeModel))
 
 prediction <- predict(treeModel, select(test, -IMPEACHMENT))
 confusionMatrix(test$IMPEACHMENT, prediction)
